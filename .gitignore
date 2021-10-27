@@ -1,0 +1,6 @@
+*.exe
+.vscode/
+./Gender_predict/Female
+./Gender_predict/Male
+*/__pycache__
+__pycache__
